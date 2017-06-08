@@ -31,7 +31,7 @@ public class Aluno extends Curso{
 		mat = mat_aux++;
 	}
 	try{
-		public void inscreverAluno(Curso curso){
+		public void inscreverAluno(Curso curso)   {
 			
 				if(this.curso == null){
 					
